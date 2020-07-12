@@ -1,5 +1,17 @@
 # Shell
 
-We will cover some basic concepts of shell and shell scripting in the course.
+This course will take you through the basics of shell.
 
-1. [Basic Shell]()
+## Introduction
+
+### What is shell?
+
+### Shell vs Terminal
+
+### Different types of shell
+
+### Streams
+
+### Shell Environment
+
+### Shell Commands
